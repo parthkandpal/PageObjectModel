@@ -95,5 +95,4 @@ public class ContactsPageTest extends TestBase{
 	
 	
 	
-	
 }
